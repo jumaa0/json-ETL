@@ -60,7 +60,7 @@ def analyze_soloists(programs):
     print("Unique Soloist Names:", df['soloistName'].nunique())
     print("Unique Instruments:", df['soloistInstrument'].nunique())
 
-json_file_path = "D:\\ITI\\bosta-casestudy\\casestudy\\src\\raw_nyc_phil.json"
+json_file_path = "./src/raw_nyc_phil.json"
 data = load_json(json_file_path)
     
 print("\nExploring JSON Structure:\n")
