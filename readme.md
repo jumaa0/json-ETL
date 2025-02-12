@@ -1,6 +1,4 @@
 
-
-
 # **NYC Philharmonic ETL Pipeline**  
 ##### Developed as part of a Bosta-casestudy project.
 
@@ -155,6 +153,13 @@ The JSON file contains details about NYC Philharmonic concerts, including orches
 - `id`: A unique identifier for each record.  
 
 ---
+## **Data Model**
+
+#### **ERD:**
+![ERD Diagram]("https://github.com/jumaa0/json-ETL/blob/main/schema/ERD.png")
+
+#### **Mapping**
+![ERD Diagram]("https://github.com/jumaa0/json-ETL/blob/main/schema/mapping.png")
 
 ## **feedback**  
 Developed as part of a Bosta-casestudy project. feedback are welcome!  
