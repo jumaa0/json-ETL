@@ -1,6 +1,5 @@
 
 # **NYC Philharmonic ETL Pipeline**  
-##### Developed as part of a Bosta-casestudy project.
 
 ---
 ## **Overview**  
@@ -162,6 +161,6 @@ The JSON file contains details about NYC Philharmonic concerts, including orches
 ![ERD Diagram](https://github.com/jumaa0/json-ETL/blob/main/schema/mapping.png)
 
 ## **feedback**  
-Developed as part of a Bosta-casestudy project. feedback are welcome!  
+Developed as part of a casestudy project. feedback are welcome!  
 
 ---
